@@ -13,7 +13,7 @@
 - ## 📌 Academic & Professional Projects  :
 - 📊 **[Bank Marketing Data Analysis](https://github.com/Balkis-code/Projet_ml_PowerBI)**
 - **[Cosmetic Sales Management System](https://github.com/Balkis-code/Application_java_vente_cosmetics)**
-- **[Système de Réservation en Ligne](https://github.com/Balkis-code/Syst-me-de-R-servation-en-Ligne)**  
+- **[Système de Réservation en Ligne]**  
 → Développement d’une application web de réservation (PHP, MySQL, AJAX).  
 
 → Developed a desktop application for managing cosmetic product sales, integrating **order processing, invoice management, and inventory tracking** using **JavaFX and SQL**.
